@@ -1,0 +1,15 @@
+{
+  "multipass": false,
+  "plugins": [
+    {
+      "name": "preset-default",
+      "params": {
+        "overrides": {
+          "cleanupIDs": false,
+          "removeViewBox": false,
+          "removeDimensions": false
+        }
+      }
+    }
+  ]
+}
